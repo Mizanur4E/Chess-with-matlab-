@@ -1,2 +1,2 @@
 # Chess-with-matlab-
-Developed  chess game using MATLAB  and MATLAB gui. 
+Developed & modified  chess game using MATLAB  and MATLAB gui. 
